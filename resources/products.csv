@@ -1,0 +1,51 @@
+product_id,product_name,category,price,manufacturer,stock_quantity
+1,Smartphone X,смартфоны,65000,Samsung,25
+2,Laptop Pro,ноутбуки,120000,Apple,10
+3,Tablet Air,планшеты,35000,Xiaomi,30
+4,Wireless Earbuds,наушники,8000,Huawei,50
+5,Smartwatch 5,умные часы,15000,Samsung,15
+6,Phone Y,смартфоны,70000,Apple,18
+7,Ultrabook,ноутбуки,150000,Dell,5
+8,Tablet Max,планшеты,40000,Huawei,20
+9,Noise Cancelling Headphones,наушники,12000,Sony,35
+10,Fitness Tracker,умные часы,7000,Xiaomi,40
+11,Galaxy S24 Ultra,смартфоны,85000,Samsung,22
+12,MacBook Air M3,ноутбуки,110000,Apple,7
+13,Xiaomi Pad 6 Pro,планшеты,40000,Xiaomi,38
+14,FreeBuds Pro 3,наушники,15000,Huawei,45
+15,Galaxy Watch 6 Classic,умные часы,25000,Samsung,12
+16,iPhone 15 Pro Max,смартфоны,130000,Apple,31
+17,HP Spectre x360,ноутбуки,160000,HP,15
+18,Lenovo Yoga Tab 13,планшеты,50000,Lenovo,27
+19,Sony WH-1000XM6,наушники,22000,Sony,48
+20,Mi Band 8 Pro,умные часы,12000,Xiaomi,20
+21,Pixel 8 Pro,смартфоны,90000,Google,10
+22,Asus ROG Zephyrus G14,ноутбуки,180000,Asus,8
+23,Galaxy Tab S9,планшеты,60000,Samsung,25
+24,Bose QuietComfort Earbuds II,наушники,18000,Bose,30
+25,Apple Watch Ultra 2,умные часы,70000,Apple,18
+26,OnePlus 12 Pro,смартфоны,75000,OnePlus,28
+27,Dell XPS 15,ноутбуки,140000,Dell,12
+28,Huawei MatePad Pro 12.6,планшеты,55000,Huawei,35
+29,AirPods Pro (2nd Gen),наушники,20000,Apple,42
+30,Galaxy Watch 5 Pro,умные часы,20000,Samsung,17
+31,Nothing Phone 2,смартфоны,60000,Nothing,33
+32,Acer Swift X,ноутбуки,100000,Acer,6
+33,iPad Air 10.9", планшеты,45000,Apple,40
+34,Soundcore Liberty 4 NC,наушники,12000,Anker,47
+35,Garmin Venu 3,умные часы,28000,Garmin,23
+36,Vivo X100 Pro+,смартфоны,80000,Vivo,19
+37,MSI Stealth 15M,ноутбуки,170000,MSI,11
+38,Realme Pad 2,планшеты,38000,Realme,31
+39,JBL Tune 770NC,наушники,10000,JBL,38
+40,Amazfit GTR 5 Pro,умные часы,15000,Amazfit,14
+41,Google Pixel Fold,смартфоны,120000,Google,9
+42,Lenovo ThinkPad X1 Carbon,ноутбуки,190000,Lenovo,7
+43,Samsung Galaxy Tab A8,планшеты,25000,Samsung,22
+44,Sennheiser Momentum 4 Wireless,наушники,25000,Sennheiser,33
+45,Huawei Watch GT 4 Pro,умные часы,30000,Huawei,16
+46,Oppo Find X7 Pro,смартфоны,95000,Oppo,29
+47,LG Gram 16,ноутбуки,130000,LG,10
+48,Microsoft Surface Pro 9,планшеты,70000,Microsoft,37
+49,Jabra Elite 85t,наушники,17000,Jabra,32
+50,Fitbit Sense 2,умные часы,35000,Fitbit,20
